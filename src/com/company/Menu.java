@@ -12,14 +12,7 @@ public enum Menu {
 
     public String Uonga() {
         System.out.println("OONGA BOONGA");
-    }
-
-    public void brum(){
-        System.out.println("BRUM BRUM");
-    }
-
-    public void sheep(){
-        System.out.println("Mbeeek");
+        return "oonga boonga";
     }
 
     @Override
