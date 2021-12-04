@@ -1,0 +1,14 @@
+/.idea/
+
+team-challange-1.iml
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+/src/.jar
+*.war
+*.ear
+
+test-git-java.iml
