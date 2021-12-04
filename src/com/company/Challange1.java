@@ -8,12 +8,11 @@ public class Challange1 {
         System.out.println("Monkey");
     }
 
-    public Challange1() {
-        super();
-    }
-
     @Override
     public String toString() {
         return super.toString();
+    }
+    public Challange1() {
+        super();
     }
 }
