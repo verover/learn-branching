@@ -9,7 +9,21 @@ public enum Menu {
     public void Test(){
         System.out.println("AHHH");
     }
-    public void Uonga(){
+
+    public String Uonga() {
         System.out.println("OONGA BOONGA");
+    }
+
+    public void brum(){
+        System.out.println("BRUM BRUM");
+    }
+
+    public void sheep(){
+        System.out.println("Mbeeek");
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
     }
 }
