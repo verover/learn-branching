@@ -17,4 +17,9 @@ public enum Menu {
     public void sheep(){
         System.out.println("Mbeeek");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
