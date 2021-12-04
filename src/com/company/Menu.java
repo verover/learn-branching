@@ -12,6 +12,7 @@ public enum Menu {
 
     public String Uonga() {
         System.out.println("OONGA BOONGA");
+        return "oonga boonga";
     }
 
     public void brum(){
