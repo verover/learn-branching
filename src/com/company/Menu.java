@@ -15,14 +15,6 @@ public enum Menu {
         return "oonga boonga";
     }
 
-    public void brum(){
-        System.out.println("BRUM BRUM");
-    }
-
-    public void sheep(){
-        System.out.println("Mbeeek");
-    }
-
     @Override
     public String toString() {
         return super.toString();
