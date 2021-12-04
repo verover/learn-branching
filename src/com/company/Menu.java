@@ -6,4 +6,7 @@ public enum Menu {
     Menu() {
         System.out.println("WELCOME");
     }
+    public void Test(){
+        System.out.println("AHHH");
+    }
 }
