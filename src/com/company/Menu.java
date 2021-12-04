@@ -9,4 +9,7 @@ public enum Menu {
     public void Test(){
         System.out.println("AHHH");
     }
+    public void Uonga(){
+        System.out.println("OONGA BOONGA");
+    }
 }
